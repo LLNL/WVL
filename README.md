@@ -1,4 +1,4 @@
-# Priithon
+# WVL
 
 The software runs using the Priithon image analysis platform (https://github.com/sebhaase/priithon), which is part of this release.
 The Priithon manual and a tutorial can be downloaded from the github url.
@@ -6,7 +6,7 @@ The Priithon manual and a tutorial can be downloaded from the github url.
 The version of this mac distribution is:
 Priithon_27_mac-20151127, which expands to a folder named Priithon_27_mac
 
-The file jmicrosc.pdf is the reference source for the wavelet algorithm in this distribution; "A novel 3D wavelet-based filter for visualizing features in noisy biological data," J. Microsc. 219, 43-49 (2005).
+The [paper](jmicrosc.pdf) is the reference source for the wavelet algorithm in this distribution; "A novel 3D wavelet-based filter for visualizing features in noisy biological data," J. Microsc. 219, 43-49 (2005).
 
 This distribution has been tested on Mac OS 10.9.5, 10.10.3, and 10.11.1
 
